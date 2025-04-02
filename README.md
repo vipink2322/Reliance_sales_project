@@ -1,9 +1,9 @@
 # Reliance_sales_project
-In this Power Bi (Business Intelligent) using 1997 -1998 reliance sales data across the world makes a report files
-In this project I am using Microsoft Power Bi, Kaggle to Extract data of Reliance sales.
-First I create did ETL (Extraction, Transform,  load)
-Using Power Bi Extract file in .csv mode after that Tranform in precise and correct it.
-There are 8 .csv file and 1 folder  using in this poject.
+1.In this Power Bi (Business Intelligent) using 1997 -1998 reliance sales data across the world makes a report files
+2.In this project I am using Microsoft Power Bi, Kaggle to Extract data of Reliance sales.
+3.First I create did ETL (Extraction, Transform,  load)
+4. Using Power Bi Extract file in .csv mode after that Tranform in precise and correct it.
+5.There are 8 .csv file and 1 folder  using in this poject.
 the 8 files are Product.csv, Region.csv, calender.csv, return-1997-1998.csv, customer.csv, stores.csv, and 2 sales file which is in inner folder (sales)
 After the Extraction FIrst change the file original name to dimentiona and fact name like d_Products.csv, d_Region.csv, d_calender.csv. f_return, etc.
 It only for developer they understand easily.
